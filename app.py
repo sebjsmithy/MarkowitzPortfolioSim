@@ -102,3 +102,4 @@ plt.plot(frontier_x,frontier_y, 'r--', linewidth=3)
 plt.savefig('cover.png')
 plt.show()
 
+print("test")
