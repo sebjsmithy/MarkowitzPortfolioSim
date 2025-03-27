@@ -101,3 +101,5 @@ plt.scatter(max_sharpe_ratio_vol, max_sharpe_ratio_return,c='red', s=50) # red d
 plt.plot(frontier_x,frontier_y, 'r--', linewidth=3)
 plt.savefig('cover.png')
 plt.show()
+
+# testing again. adding notes!
